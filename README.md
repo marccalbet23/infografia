@@ -1,0 +1,2 @@
+# infografia
+practiques info
